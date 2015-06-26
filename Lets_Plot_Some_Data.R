@@ -47,6 +47,6 @@ p2 + geom_histogram(aes(fill = cut)) + scale_fill_manual(values = c('#a6611a', '
 # <https://help.github.com/articles/merging-a-pull-request/>
 # Ok over to you!
 
-
+# here is the code I am going to remove
 
 
