@@ -8,3 +8,9 @@ p + coord_polar()
 p + geom_bar(aes(fill = factor(cyl)))
 
 p + geom_bar(aes(fill = factor(cyl))) + coord_polar(theta = 'y')
+
+# New changes on testing branch
+
+# these changes will conflict with later changes on master branch
+
+#
