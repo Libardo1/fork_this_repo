@@ -14,3 +14,8 @@ head(mtcars)
 p2 <- ggplot(aes(x = mpg), data = mtcars)
 p2 <- p2 + geom_histogram()
 p2
+# New changes on testing branch
+
+# these changes will conflict with later changes on master branch
+
+#
