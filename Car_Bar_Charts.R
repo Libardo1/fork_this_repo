@@ -12,7 +12,7 @@ p + geom_bar(aes(fill = factor(cyl))) + coord_polar(theta = 'y')
 # Histograms
 head(mtcars)
 p2 <- ggplot(aes(x = mpg), data = mtcars)
-p2 <- p2 + geom_histogram()
+p2 <- p2 + geom_histogram(fill = 'grey', colour 'black')
 p2
 # New changes on testing branch
 
